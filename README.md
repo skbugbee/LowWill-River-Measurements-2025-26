@@ -1,6 +1,6 @@
 # Lower Willapa River Measurement Campaign (2025–26)
 
-This repository contains all data and documentation for the Lower Willapa River Measurement Campaign (2025–26) by the UW CoPes team, as well as some preliminary analysis.
+This repository contains all data and documentation for the Lower Willapa River Measurement Campaign (2025–26) by the UW CoPes team, as well as some preliminary analysis. The Willapa River, South Fork, and Skidmore Slough data will additionally be published using Dryad and can be accessed with the following link [to be inserted]
 
 ## Repository Contents
 
