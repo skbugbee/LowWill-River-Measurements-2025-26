@@ -84,7 +84,7 @@ As these sensors cannot become submerged, they were mounted at high elevations.
 | D3 | 12/14–16 | Retrieved: WR05. Serviced: WR01, WR03, WR06, BALLPARK, VET, ABBYROAD, WATERSTREET, BARGE, RIVERDALE, CENTRAL, EYECLINIC, HECKARD. Deployed: WR07 |
 | D4 | 1/11–12 | Serviced: WR03, WR04, WR06, WR07, SF01–03 |
 | D4.5 | 1/28 | Serviced: WR08 |
-| D5 | 3/8–9 | Retrieved: WR01, WR02, BALLPARK, VET, WATERSTREET, ABBYROAD, BARGE, RIVERDALE, EYECLINIC, HECKARD. Serviced: WR03, WR04, WR06, WR07, SF01, SF03, SS01–03 |
+| D5 | 3/8–9 | Retrieved: WR01, BALLPARK, VET, WATERSTREET, ABBYROAD, BARGE, RIVERDALE, EYECLINIC, HECKARD. Serviced: WR03, WR04, WR06, WR07, SF01, SF03, SS01–03 |
 | D6 | 6/7–6/8 | TBD |
 
 ---
